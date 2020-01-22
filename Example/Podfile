@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ComponentMiddleware_Tests' do
+  pod 'ComponentMiddleware', :path => '../'
+  
+  
+end
